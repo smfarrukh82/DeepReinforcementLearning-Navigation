@@ -3,11 +3,6 @@
 # Train an RL Agent to Collect Bananas
 
 
-
-<img src="assets/banana_agent.gif" width="60%" align="top-left" alt="" title="Banana Agent" />
-
-*Above: My trained agent in action!*
-
 ##### &nbsp;
 
 ## Goal
